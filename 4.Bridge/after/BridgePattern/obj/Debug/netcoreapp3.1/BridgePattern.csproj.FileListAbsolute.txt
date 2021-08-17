@@ -1,0 +1,13 @@
+C:\Sources\BridgePattern\BridgePattern\bin\Debug\netcoreapp3.1\BridgePattern.exe
+C:\Sources\BridgePattern\BridgePattern\bin\Debug\netcoreapp3.1\BridgePattern.deps.json
+C:\Sources\BridgePattern\BridgePattern\bin\Debug\netcoreapp3.1\BridgePattern.runtimeconfig.json
+C:\Sources\BridgePattern\BridgePattern\bin\Debug\netcoreapp3.1\BridgePattern.runtimeconfig.dev.json
+C:\Sources\BridgePattern\BridgePattern\bin\Debug\netcoreapp3.1\BridgePattern.dll
+C:\Sources\BridgePattern\BridgePattern\bin\Debug\netcoreapp3.1\BridgePattern.pdb
+C:\Sources\BridgePattern\BridgePattern\obj\Debug\netcoreapp3.1\BridgePattern.csprojAssemblyReference.cache
+C:\Sources\BridgePattern\BridgePattern\obj\Debug\netcoreapp3.1\BridgePattern.AssemblyInfoInputs.cache
+C:\Sources\BridgePattern\BridgePattern\obj\Debug\netcoreapp3.1\BridgePattern.AssemblyInfo.cs
+C:\Sources\BridgePattern\BridgePattern\obj\Debug\netcoreapp3.1\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Sources\BridgePattern\BridgePattern\obj\Debug\netcoreapp3.1\BridgePattern.dll
+C:\Sources\BridgePattern\BridgePattern\obj\Debug\netcoreapp3.1\BridgePattern.pdb
+C:\Sources\BridgePattern\BridgePattern\obj\Debug\netcoreapp3.1\BridgePattern.genruntimeconfig.cache
