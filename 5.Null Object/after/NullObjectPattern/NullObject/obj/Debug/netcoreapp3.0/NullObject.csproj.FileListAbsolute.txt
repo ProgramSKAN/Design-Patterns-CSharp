@@ -1,0 +1,11 @@
+/Users/davidstarr/OneDrive/Pluralsight/Pattern_NullObject/after/NullObjectPattern/NullObject/bin/Debug/netcoreapp3.0/NullObject
+/Users/davidstarr/OneDrive/Pluralsight/Pattern_NullObject/after/NullObjectPattern/NullObject/bin/Debug/netcoreapp3.0/NullObject.deps.json
+/Users/davidstarr/OneDrive/Pluralsight/Pattern_NullObject/after/NullObjectPattern/NullObject/bin/Debug/netcoreapp3.0/NullObject.runtimeconfig.json
+/Users/davidstarr/OneDrive/Pluralsight/Pattern_NullObject/after/NullObjectPattern/NullObject/bin/Debug/netcoreapp3.0/NullObject.runtimeconfig.dev.json
+/Users/davidstarr/OneDrive/Pluralsight/Pattern_NullObject/after/NullObjectPattern/NullObject/bin/Debug/netcoreapp3.0/NullObject.dll
+/Users/davidstarr/OneDrive/Pluralsight/Pattern_NullObject/after/NullObjectPattern/NullObject/bin/Debug/netcoreapp3.0/NullObject.pdb
+/Users/davidstarr/OneDrive/Pluralsight/Pattern_NullObject/after/NullObjectPattern/NullObject/obj/Debug/netcoreapp3.0/NullObject.csprojAssemblyReference.cache
+/Users/davidstarr/OneDrive/Pluralsight/Pattern_NullObject/after/NullObjectPattern/NullObject/obj/Debug/netcoreapp3.0/NullObject.AssemblyInfoInputs.cache
+/Users/davidstarr/OneDrive/Pluralsight/Pattern_NullObject/after/NullObjectPattern/NullObject/obj/Debug/netcoreapp3.0/NullObject.AssemblyInfo.cs
+/Users/davidstarr/OneDrive/Pluralsight/Pattern_NullObject/after/NullObjectPattern/NullObject/obj/Debug/netcoreapp3.0/NullObject.dll
+/Users/davidstarr/OneDrive/Pluralsight/Pattern_NullObject/after/NullObjectPattern/NullObject/obj/Debug/netcoreapp3.0/NullObject.pdb
