@@ -1,0 +1,9 @@
+C:\Users\kanda\Desktop\1.SANDEEP\Business\fullstack\MtxsePumpSizing\Design-Patterns-CSharp\8.DataAccess\1.Repository Pattern\Start_Here\MyShop.Domain\bin\Debug\netstandard2.0\MyShop.Domain.deps.json
+C:\Users\kanda\Desktop\1.SANDEEP\Business\fullstack\MtxsePumpSizing\Design-Patterns-CSharp\8.DataAccess\1.Repository Pattern\Start_Here\MyShop.Domain\bin\Debug\netstandard2.0\MyShop.Domain.dll
+C:\Users\kanda\Desktop\1.SANDEEP\Business\fullstack\MtxsePumpSizing\Design-Patterns-CSharp\8.DataAccess\1.Repository Pattern\Start_Here\MyShop.Domain\bin\Debug\netstandard2.0\MyShop.Domain.pdb
+C:\Users\kanda\Desktop\1.SANDEEP\Business\fullstack\MtxsePumpSizing\Design-Patterns-CSharp\8.DataAccess\1.Repository Pattern\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.csprojAssemblyReference.cache
+C:\Users\kanda\Desktop\1.SANDEEP\Business\fullstack\MtxsePumpSizing\Design-Patterns-CSharp\8.DataAccess\1.Repository Pattern\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kanda\Desktop\1.SANDEEP\Business\fullstack\MtxsePumpSizing\Design-Patterns-CSharp\8.DataAccess\1.Repository Pattern\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.AssemblyInfoInputs.cache
+C:\Users\kanda\Desktop\1.SANDEEP\Business\fullstack\MtxsePumpSizing\Design-Patterns-CSharp\8.DataAccess\1.Repository Pattern\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.AssemblyInfo.cs
+C:\Users\kanda\Desktop\1.SANDEEP\Business\fullstack\MtxsePumpSizing\Design-Patterns-CSharp\8.DataAccess\1.Repository Pattern\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.dll
+C:\Users\kanda\Desktop\1.SANDEEP\Business\fullstack\MtxsePumpSizing\Design-Patterns-CSharp\8.DataAccess\1.Repository Pattern\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.pdb

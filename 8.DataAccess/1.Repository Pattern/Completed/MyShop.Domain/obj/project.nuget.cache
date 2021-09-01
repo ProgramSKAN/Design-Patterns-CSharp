@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ID9FC6cpAtHGxv124JQ5M1fyzKGFVLEZDWDARY/TPzy8C/QS8lNAHI7IN0z7dsvByrE4HjmlhMFpBWV8KvS0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kanda\\Desktop\\1.SANDEEP\\Business\\fullstack\\MtxsePumpSizing\\Design-Patterns-CSharp\\8.DataAccess\\1.Repository Pattern\\Completed\\MyShop.Domain\\MyShop.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kanda\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kanda\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
